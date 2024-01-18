@@ -11,6 +11,9 @@
 ## Projects
 ### FAMOUS PAINTINGS AND ARTISTS
 
+### Customer Churn Analysis
+[Project](https://github.com/mrunalibharshankar/RegressionAnalysis.git)
+
 
 
 
