@@ -12,6 +12,7 @@
 ### FAMOUS PAINTINGS AND ARTISTS
 
 ### Customer Churn Analysis
+[Skills: Excel, Regression analysis]
 [Project](https://github.com/mrunalibharshankar/RegressionAnalysis.git)
 
 - Predict the top attribute related to CustomerChurnRate, the goal was to understand how the independent variables impact the dependent variable.
