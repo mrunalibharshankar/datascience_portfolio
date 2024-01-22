@@ -11,6 +11,9 @@
 ## Projects
 ### FAMOUS PAINTINGS AND ARTISTS
 [Project](https://github.com/mrunalibharshankar/SQL_Tableau.git)
+- The goal was to make meaningfull insights about the 100,000 records containing 8 different tables about painting, artist, cost, museum details.
+- Analysed and manipulated data in excel followed by using Joins, CTE, Windows function in mysql and finally visualized the data in tableau.
+- In tableau, with the help of filters, calculated fields and set function created dynamic dashboard.
 
 ### Customer Churn Analysis
 [Project](https://github.com/mrunalibharshankar/RegressionAnalysis.git)
