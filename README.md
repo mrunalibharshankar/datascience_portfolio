@@ -10,7 +10,7 @@
 
 ## Projects
 ### FAMOUS PAINTINGS AND ARTISTS
-[Project](https://github.com/mrunalibharshankar/SQL_Tableau/tree/main)
+[Project](https://github.com/mrunalibharshankar/SQL_Tableau.git)
 
 ### Customer Churn Analysis
 [Project](https://github.com/mrunalibharshankar/RegressionAnalysis.git)
