@@ -23,11 +23,10 @@
 
 ### Employee Retention using a Regression and Machine learning model
 [Project](https://github.com/mrunalibharshankar/Python.git)
-
-  
-
-
-
+- The goals in this project was to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
+- Built Logistic Regression models with Cross validation, Random Forest and Decision Tree model with Gridsearch on evaluation metrics(f1, accuracy, AUC, recall, precision) with classification report.
+- From the evalution random forest models, last_evaluation, number_project, tenure, and overworked have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, left, and they are the same as the ones used by the decision tree model.
+- Conclusion was the logistic regression model achieved precision of 80%, recall of 83%, f1-score of 80% (all weighted averages), and accuracy of 83%, on the test set and the decision tree model achieved AUC of 95.65%, precision of 97.59%, recall of 90.4%, f1-score of 94.58%, and accuracy of 98.23%, on the test set. The random forest modestly outperformed the decision tree model.
 
 ## Work Experience
 **Operation Analyst @PRGX Global Inc. (_January 2020 - November 2022_)**
