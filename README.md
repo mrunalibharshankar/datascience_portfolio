@@ -33,7 +33,7 @@
 
 - TikTok wants to build a machine learning model to help identify claims and opinions. A machine learning model would greatly assist in the effort to present human moderators with videos that are most likely to be in violation of TikTok's terms of service.
 - Performed data cleaning and text analysis to successfully identified the claims and opinions.
-- Applied regression and machine learning to produce a final model with an accuracy of 99.32%.
+- Applied regression and machine learning to produce a final model with an accuracy of 99.71%.
 
 ## Work Experience
 **Operation Analyst @PRGX Global Inc. (_January 2020 - November 2022_)**
