@@ -22,7 +22,7 @@
 - The p-value of CreditScore was 0.007 (< 0.05), it determined the significant relationship between CredtiScore(independent variable) and Exited (dependent variable) and R-squared of CreditScore was 0.0008 is 0.08% proportion of variance in Exited variable which is very less but better than other variables to consider, also the coefficients that result in the smallest residual sum of squares with best fit line.
 
 ### Employee Retention using a Regression and Machine learning model
-[Project](https://github.com/mrunalibharshankar/Python/.git)
+[Project](https://github.com/mrunalibharshankar/Python.git)
 
   
 
