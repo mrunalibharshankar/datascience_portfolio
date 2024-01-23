@@ -28,6 +28,13 @@
 - From the evalution random forest models, last_evaluation, number_project, tenure, and overworked have the highest importance, in that order. These variables are most helpful in predicting the outcome variable, left, and they are the same as the ones used by the decision tree model.
 - Conclusion was the logistic regression model achieved precision of 80%, recall of 83%, f1-score of 80% (all weighted averages), and accuracy of 83%, on the test set and the decision tree model achieved AUC of 95.65%, precision of 97.59%, recall of 90.4%, f1-score of 94.58%, and accuracy of 98.23%, on the test set. The random forest modestly outperformed the decision tree model.
 
+### CLASSIFICATION OF TIK TOK VIDEOS	
+[Project](https://github.com/mrunalibharshankar/Classification-using-ML.git)
+
+- TikTok wants to build a machine learning model to help identify claims and opinions. A machine learning model would greatly assist in the effort to present human moderators with videos that are most likely to be in violation of TikTok's terms of service.
+- Performed data cleaning and text analysis to successfully identified the claims and opinions.
+- Applied regression and machine learning to produce a final model with an accuracy of 99.32%.
+
 ## Work Experience
 **Operation Analyst @PRGX Global Inc. (_January 2020 - November 2022_)**
 - Data Analyse and performed quantitative and qualitative analysis to identify patterns, trends, and insights in the data. Clean and preprocess data to ensure its accuracy and usability. Created reports and visualizations to present findings and actionable insights to stakeholders, such as managers and executives.
