@@ -1,12 +1,30 @@
-# Data Analyst
+# Data Analyst/Business Analyst
 
-#### Technical Skills: SQL, Excel, Python, Tableau
+#### Technical Skills: SQL, Excel, Python, Tableau, Power BI, Descriptive and Inferential Statistics, Hypothesis Testing, Regression Analysis, Predictive Analysis
 
 ## Certifications
 - GOOGLE ADVANCED DATA ANALYTICS CERTIFICATE	(_October 2023_)
 
 ## Education
-- B.E., Electronics | Pune University (_May 2015_)
+- B.E., Electronics | University of Pune (_May 2015_)
+
+## Work Experience
+**Operation Analyst @PRGX Global Inc. (_January 2020 - November 2022_)**
+- Performed data cleaning and data analysis on vendor master large transactional databases such as accounts payable data, financial records,
+invoices, payment documents to identify errors, trends, and insights in the data. Used analytical tools such as MS Excel and Complex SQL queries
+to identify over payments, duplicate payments, pricing errors and other anomalies.
+- Created reports and dashboard with key performance indicators (KPIs) on spend analysis, payment performance and spend classification in
+Tableau to present findings and actionable insights to stakeholders, such as managers and executives.
+- Prepared and reviewed monthly/quarterly reports on JIRA project management tool to monitor progress, identify trends, and make informed
+decisions to drive project success.
+
+**Data Analyst @ Epiq Systems (_February 2016 - August 2019_)**
+- Validated and collected electronic data from ESI (Email Servers), document repositories, databases by maintaining data integrity and accuracy.
+- Analyze and processed large electronic data to identify key documents, patterns and relevant information to lawyers by using E-discovery in house
+software to filter, de-duplicate and index data. Extracted metadata, preprocessed data which involved keyword searches (Regex), file properties
+and user activity logs.
+- Prepared reports, summaries and documentation about data insights in Excel. Helped legal team and organization to manage electronic data
+effectively throughout litigation lifecycle.
 
 ## Projects
 ### FAMOUS PAINTINGS AND ARTISTS
@@ -35,14 +53,5 @@
 - Performed data cleaning and text analysis to successfully identified the claims and opinions.
 - Applied regression and machine learning to produce a final model with an accuracy of 99.71%.
 
-## Work Experience
-**Operation Analyst @PRGX Global Inc. (_January 2020 - November 2022_)**
-- Data Analyse and performed quantitative and qualitative analysis to identify patterns, trends, and insights in the data. Clean and preprocess data to ensure its accuracy and usability. Created reports and visualizations to present findings and actionable insights to stakeholders, such as managers and executives.
-- Defined and tracked performance metrics and key performance indicators (KPIs) to measure the effectiveness of processes or projects. Identifying the root causes of operational issues, Interpreted data using statistical techniques and provide ongoing reports to help with decision-making, which often includes forecasting, cost analysis, and risk assessment.
-
-**Data Analyst @ Epiq Systems (_February 2016 - August 2019_)**
-- Extracted, compiled and tracked data, and analyzed data to generate reports.
-- Compiled and validated data; reinforce and maintain compliance with corporate standards.
-- Exposure of Legal Software, Technologies and Hands-on experience with various EDD processing software, manipulated data to find duplicates and VlOOKUPS in Excel and process the image files in OCR tools.
 
 
