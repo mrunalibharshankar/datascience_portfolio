@@ -1,10 +1,10 @@
 # Data Analyst/Business Analyst
 
-#### Technical Skills
-- Data Management 	       SQL (MySQL, SQLServer), Excel (Pivot Tables), Python (Pandas, NumPy, Matplotlib)  
-- Data Visualization	     Tableau, Power BI 
-- Statistical Analysis 	   Data Cleaning, Data Preprocessing, KPI Reporting, Trend analysis, Statistical Analysis 
-- Collaboration Skills     Strong Analytical & Problem-Solving Skills, Cross-Functional Collaboration 
+## Technical Skills
+- **Data Management**	         SQL (MySQL, SQLServer), Excel (Pivot Tables), Python (Pandas, NumPy, Matplotlib)  
+- **Data Visualization**	     Tableau, Power BI 
+- **Statistical Analysis** 	   Data Cleaning, Data Preprocessing, KPI Reporting, Trend analysis, Statistical Analysis 
+- **Collaboration Skills**     Strong Analytical & Problem-Solving Skills, Cross-Functional Collaboration 
 
 
 
