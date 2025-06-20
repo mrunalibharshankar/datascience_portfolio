@@ -1,6 +1,12 @@
 # Data Analyst/Business Analyst
 
-#### Technical Skills: SQL, Excel, Python, Tableau, Power BI, Descriptive and Inferential Statistics, Hypothesis Testing, Regression Analysis, Predictive Analysis
+#### Technical Skills
+- Data Management 	       SQL (MySQL, SQLServer), Excel (Pivot Tables), Python (Pandas, NumPy, Matplotlib)  
+- Data Visualization	     Tableau, Power BI 
+- Statistical Analysis 	   Data Cleaning, Data Preprocessing, KPI Reporting, Trend analysis, Statistical Analysis 
+- Collaboration Skills     Strong Analytical & Problem-Solving Skills, Cross-Functional Collaboration 
+
+
 
 ## Certifications
 - GOOGLE ADVANCED DATA ANALYTICS CERTIFICATE	(_October 2023_)
